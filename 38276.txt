@@ -11,9 +11,10 @@ Title: The Cruise of the Snowbird
 
 Author: Gordon Stables
 
-Illustrator: -
+Illustrator:
 
 Release Date: December 11, 2011 [EBook #38276]
+Last Updated: July 16, 2016
 
 Language: English
 
@@ -173,7 +174,7 @@ though, what that something will be, but my mother shall not die in
 poverty; of that I feel quite certain.  Pride caused the fall of the
 chiefs of Arrandoon; pride shall raise us once again.  The song says,--
 
-"`Whate'er a man dares be can do.'
+"`Whate'er a man dares he can do.'
 
 "And I mean to _dare_ and I mean to _do_, even if I go off to the
 gold-diggings.  But, oh!  Bran, only to think of getting back even a
@@ -1133,7 +1134,7 @@ that buried treasure.  Then he slept, and dreamt he had returned from
 the far north a wealthy man--that Arrandoon was re-furnished and
 re-roofed, that he had regained all the proud acres which his fathers
 had squandered, and that his dear mother and sister were reinstated in
-the rank of life they, were born to adorn, and which was the right of
+the rank of life they were born to adorn, and which was the right of
 birth of the chiefs of Glentroom.
 
 Do dreams ever come true?  At times.
@@ -2081,7 +2082,7 @@ and almost an emotion, which he did not usually exhibit.
 
 "Well, would you believe it, boys?" continued Ralph, "he now in this
 letter offers me what we all so much desire a real yacht, a big,
-glorious yacht, that may sail to any--clime and brave the stormiest
+glorious yacht, that may sail to any clime and brave the stormiest
 seas.  He said that though I had never even hinted my wishes, he
 gathered from my letters that my heart was bent upon sailing a yacht,
 and that his son should own one worthy of the family name he bore.  Oh!
@@ -2283,7 +2284,7 @@ through the flames speedily fell by the edge of the sword."
 Ralph.
 
 "Well," said McBain, "war is always cruel, and even in our own day
-treachery towards the enemy is far from, uncommon; but, mind you, the
+treachery towards the enemy is far from uncommon; but, mind you, the
 McDonalds were not sinless in this respect either.  A chief of this bold
 clan once invited a chief of the McLeods to dinner in his castle of
 Duntulm."
@@ -2501,7 +2502,7 @@ with a close-reefed mainsail and storm-jib, so they bowled along,
 impatient now to get back to bonnie Arrandoon.  But they did not mind
 the roughness of the passage; they did not mind the tumbling and the
 tossing they got; they despised even the danger of being pooped.  They
-made heavy weather just off Ardnamurchan Point McBain stuck to the
+made heavy weather just off Ardnamurchan Point. McBain stuck to the
 tiller, and for a whole hour, or more, perhaps, there was not a word
 spoken by any one.  They are fearful cliffs, those around the wild
 highlands of Ardnamurchan, black and wet and fearful; the largest ship
@@ -3221,7 +3222,7 @@ a walking-stick, and looking altogether so rough and unkempt that he
 might have been taken for the presiding genius of this wild island.  In
 striking contrast with this fellow there stood near him a pretty and
 interesting-looking young girl, with a little peat-creel on her back,
-and knitting materials in her hand, which betokened, industry.  She had
+and knitting materials in her hand, which betokened industry.  She had
 yellow hair floating, over her shoulders, and eyes as blue as summer
 seas.
 
@@ -3253,7 +3254,7 @@ Shetland-queen.  But woe is me for Ralph and Allan,--they were hardly on
 when they were off again.  It must be said for them, however, that they
 stuck to their bridles if they couldn't stick to the saddles, and again
 and again they mounted their fiery steeds with the same ignominious
-results.  Two legs seemed enough for those ponies to walk, upon, and it
+results.  Two legs seemed enough for those ponies to walk upon, and it
 did not matter for the time being whether they were, hind legs or fore
 legs.  They could stand, on their heads too, turn somersaults, and roll
 over on their backs, and do all sorts of pretty tricks.
@@ -3283,7 +3284,7 @@ the light breeze that blew over the islands and across the blue sea was
 balmy and yet bracing--it was a breeze that raised the spirits; yes, and
 it did something else, it appealed to the inner man, as Ralph expressed,
 and so, when after a ride of over a dozen miles a well-known roadside
-hostelry hove in wight, our heroes positively hailed it with a cheer.
+hostelry hove in sight, our heroes positively hailed it with a cheer.
 What mattered it that the little parlour into which they were shown was
 destitute of a carpet and possessed of chairs of deal?  It was clean and
 quiet, the tablecloth was spotless as the snows of Ben Rona, the cakes
@@ -3770,9 +3771,10 @@ one was cheerful.
 "Better," said McBain, "is a cold sardine and a bit of ship biscuit
 where love is, than roast beef and--"
 
-"Roast beef and botheration!" said Rory, helping him out "That's it!
-Thank ye," said McBain.  "And now, who is going on deck to have a look
-at the sea?"
+"Roast beef and botheration!" said Rory, helping him out.
+
+"That's it! Thank ye," said McBain.  "And now, who is going on deck to
+have a look at the sea?"
 
 "Ha! what a scene is here!" said Allan, looking around him, as he clung
 to the weather rail.
@@ -4450,14 +4452,14 @@ be sure; what a breaker of images?"
 eye.
 
 "You say the mam-_moth_ was an elephant," said Rory.  "Och! sure it was
-myself was thinking all the time it was a kind of a bhutterfly."
+myself was thinking all the time it was a kind of a butterfly."
 
 "Indeed, indeed, Rory," said Ralph, "I think it is time little boys like
 you were in bed."
 
 "Well, boys," said McBain, rising, "maybe it is time we all turned in,
 and thankful we have to be for a quiet night, for a fair wind, and a
-clear sea.  Dream about your `bhutterfly,' Rory, my son, for depend upon
+clear sea.  Dream about your `butterfly,' Rory, my son, for depend upon
 it we'll see him yet."
 
 Next day was Sunday.  How inexpressibly calm and delightful, when
@@ -4858,7 +4860,7 @@ Our heroes lay on the grass talking and laughing and looking lazily on,
 but enjoying the sight nevertheless.  It was evidently a curry on a
 grand scale that Seth was going to give them, and he soon had about a
 dozen sliced onions simmering in fat; when they were enough done the
-doe's, flesh was added, and then Seth set about compounding his curry
+doe's flesh was added, and then Seth set about compounding his curry
 out of freshly-grated turmeric and many curious herbs.  His pestle and
 mortar were rude but efficient.  This was the longest part of the
 operation, and he had to pause often to take off the lid and stir up the
@@ -7247,7 +7249,7 @@ hopes of finding them.
 Allan could now understand perfectly and clearly every phase of the
 situation.  His friends if alive were some miles, many miles in all
 probability, up-stream, the dog had escaped from their camp fire, the
-fire hid originated at their camp, and to escape destruction they must
+fire had originated at their camp, and to escape destruction they must
 have crossed the stream.  Allan had never seen a forest on fire before,
 but he had seen the heather, and he knew something about the dangerous
 rapidity with which flames can spread along in the open.  As soon,
@@ -7488,7 +7490,7 @@ saucers.
 here, boys."
 
 He threw a bit of wood overboard as he spoke; it rang as it alighted on
-the surface of the Ice.
+the surface of the ice.
 
 CHAPTER TWENTY TWO.
 
@@ -7848,7 +7850,7 @@ terrible than any we have ever experienced in our own country."
 "It is a good thing," said Rory, "that you thought of taking such an
 array of beautiful lamps."
 
-Yes, Rory was right, it was a beautiful array.  As Ralph re narked, "the
+Yes, Rory was right, it was a beautiful array.  As Ralph remarked, "the
 _Snowbird_ was strong in lamps."
 
 They hung in the passage, they hung in the snuggery, and four of them
@@ -8210,7 +8212,7 @@ of impatience.  He would yawn and stretch himself and wriggle and shake;
 then he would open his mouth and endeavour to round a sentence in real
 verbal English, and, failing in this, fall back upon dog language pure
 and simple.  Or he would stand as steady as a pointer, looking up at
-Allan with his beautiful head turned on on? side, and his mouth a little
+Allan with his beautiful head turned on one side, and his mouth a little
 open, just sufficiently so to show the tip of his bright pink tongue,
 and his brown eyes would speak to his master.  "Couldn't you," the dog
 would seem to ask--"couldn't you get on your coat a little--oh, _ever_
@@ -9255,7 +9257,7 @@ pity to land and burn it, wouldn't it, Ap?"
 
 "Yes, look, you see," was Ap's reply, his eyes still fondly resting on
 the building, "I wouldn't think of that for a moment.  Better the
-Indians than that Yes, yes."
+Indians than that. Yes, yes."
 
 When the sun set that day the land was far away on the lee quarter; by
 morning it had entirely disappeared, and all the adventures they had
